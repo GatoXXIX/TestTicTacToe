@@ -1,0 +1,21 @@
+{
+    "author": "me@beny.at",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tictactoe",
+    "pebble": {
+        "displayName": "TicTacToe",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "3f4b2687-8da4-4729-804e-0f0229fe657c",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
